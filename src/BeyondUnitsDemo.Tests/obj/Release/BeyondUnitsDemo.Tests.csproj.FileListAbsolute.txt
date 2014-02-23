@@ -1,0 +1,5 @@
+C:\github\beyondunits\build\output\BeyondUnitsDemo.Tests.dll
+C:\github\beyondunits\build\output\BeyondUnitsDemo.Tests.pdb
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\obj\Release\BeyondUnitsDemo.Tests.csprojResolveAssemblyReference.cache
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\obj\Release\BeyondUnitsDemo.Tests.dll
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\obj\Release\BeyondUnitsDemo.Tests.pdb

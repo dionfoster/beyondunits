@@ -1,0 +1,17 @@
+C:\github\beyondunit\src\BeyondUnitsDemo.Tests\bin\Debug\BeyondUnitsDemo.Tests.dll
+C:\github\beyondunit\src\BeyondUnitsDemo.Tests\bin\Debug\BeyondUnitsDemo.Tests.pdb
+C:\github\beyondunit\src\BeyondUnitsDemo.Tests\obj\Debug\BeyondUnitsDemo.Tests.dll
+C:\github\beyondunit\src\BeyondUnitsDemo.Tests\obj\Debug\BeyondUnitsDemo.Tests.pdb
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\bin\Debug\BeyondUnitsDemo.Tests.dll
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\bin\Debug\BeyondUnitsDemo.Tests.pdb
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\bin\Debug\ApprovalTests.dll
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\bin\Debug\ApprovalUtilities.dll
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\bin\Debug\ApprovalTests.pdb
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\bin\Debug\ApprovalTests.xml
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\bin\Debug\ApprovalUtilities.pdb
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\bin\Debug\ApprovalUtilities.xml
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\obj\Debug\BeyondUnitsDemo.Tests.csprojResolveAssemblyReference.cache
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\obj\Debug\BeyondUnitsDemo.Tests.dll
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\obj\Debug\BeyondUnitsDemo.Tests.pdb
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\bin\Debug\nunit.framework.dll
+C:\github\beyondunits\src\BeyondUnitsDemo.Tests\bin\Debug\nunit.framework.xml
