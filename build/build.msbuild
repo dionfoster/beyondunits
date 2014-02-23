@@ -4,7 +4,7 @@
 
 	<PropertyGroup>
 		<!-- After Compile: Result will be saved in OutDir -->
-		<OutDir>$(MSBuildStartupDirectory)\output\</OutDir>
+		<OutDir>$(MSBuildStartupDirectory)\artifacts\</OutDir>
 
 		<!-- Configuration -->
 		<Configuration>Release</Configuration>
