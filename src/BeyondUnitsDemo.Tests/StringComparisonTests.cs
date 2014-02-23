@@ -15,7 +15,7 @@ namespace BeyondUnitsDemo.Tests
         [UseReporter(typeof(DiffReporter))]
         public void An_apple_is_an_apple()
         {
-            var fruit = "orange";
+            var fruit = "apple";
 
             Approvals.Verify(fruit);
         }

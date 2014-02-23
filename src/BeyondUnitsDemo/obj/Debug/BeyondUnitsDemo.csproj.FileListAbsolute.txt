@@ -1,8 +1,0 @@
-C:\github\beyondunit\src\BeyondUnitsDemo\bin\Debug\BeyondUnitsDemo.dll
-C:\github\beyondunit\src\BeyondUnitsDemo\bin\Debug\BeyondUnitsDemo.pdb
-C:\github\beyondunit\src\BeyondUnitsDemo\obj\Debug\BeyondUnitsDemo.dll
-C:\github\beyondunit\src\BeyondUnitsDemo\obj\Debug\BeyondUnitsDemo.pdb
-C:\github\beyondunits\src\BeyondUnitsDemo\bin\Debug\BeyondUnitsDemo.dll
-C:\github\beyondunits\src\BeyondUnitsDemo\bin\Debug\BeyondUnitsDemo.pdb
-C:\github\beyondunits\src\BeyondUnitsDemo\obj\Debug\BeyondUnitsDemo.dll
-C:\github\beyondunits\src\BeyondUnitsDemo\obj\Debug\BeyondUnitsDemo.pdb

@@ -1,5 +1,0 @@
-C:\github\beyondunits\build\output\BeyondUnitsDemo.dll
-C:\github\beyondunits\build\output\BeyondUnitsDemo.pdb
-C:\github\beyondunits\src\BeyondUnitsDemo\obj\Release\BeyondUnitsDemo.csprojResolveAssemblyReference.cache
-C:\github\beyondunits\src\BeyondUnitsDemo\obj\Release\BeyondUnitsDemo.dll
-C:\github\beyondunits\src\BeyondUnitsDemo\obj\Release\BeyondUnitsDemo.pdb
