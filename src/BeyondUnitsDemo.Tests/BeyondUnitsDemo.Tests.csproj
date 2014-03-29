@@ -49,7 +49,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BinaryComparisonTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringComparisonTests.cs" />
   </ItemGroup>
