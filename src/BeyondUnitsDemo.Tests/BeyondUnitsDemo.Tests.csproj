@@ -40,6 +40,9 @@
     <Reference Include="nunit.framework">
       <HintPath>..\packages\NUnit.2.6.3\lib\nunit.framework.dll</HintPath>
     </Reference>
+    <Reference Include="Shouldly">
+      <HintPath>..\packages\Shouldly.2.1.1\lib\net40\Shouldly.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -49,11 +52,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Helpers\CollectionApprovalReport.cs" />
+    <Compile Include="CollectionTests.cs" />
+    <Compile Include="Helpers\MethodCalleeCollectionApprovalReport.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringComparisonTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BeyondUnitsDemo\BeyondUnitsDemo.csproj">
+      <Project>{5A6DC205-A107-4C66-8BCE-B1C6E002D422}</Project>
+      <Name>BeyondUnitsDemo</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
