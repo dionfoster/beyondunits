@@ -1,1 +1,7 @@
-﻿ 
+﻿===============================
+People are ordered by firstname
+===============================
+Aaron Smith
+Barry Todd
+Callum MacDonald
+Tom Tunstal
