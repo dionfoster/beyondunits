@@ -7,7 +7,7 @@
 		<OutDir>$(MSBuildStartupDirectory)\artifacts\</OutDir>
 
 		<!-- Configuration -->
-		<Configuration>Release</Configuration>
+		<Configuration>Debug</Configuration>
 
 		<!-- Solutionproperties-->
 		<SolutionProperties>
