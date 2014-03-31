@@ -22,7 +22,7 @@ namespace BeyondUnitsDemo.Tests
 
             var imageInfo = new FileInfo(imagePath);
 
-            ImageGenerator.Create(imagePath, "Test it!!");
+            ImageGenerator.Create(imagePath, "Approval tests rock!!");
 
             Approvals.Verify(imageInfo);
         }
