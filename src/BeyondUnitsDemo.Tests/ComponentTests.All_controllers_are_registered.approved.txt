@@ -1,0 +1,9 @@
+﻿========================
+Successfully Registered:
+========================
+BeyondUnitsDemo.Controllers.Admin.PersonController
+BeyondUnitsDemo.Controllers.Admin.ProductController
+BeyondUnitsDemo.Controllers.ImageController
+BeyondUnitsDemo.Controllers.PersonController
+BeyondUnitsDemo.Controllers.ProjectController
+

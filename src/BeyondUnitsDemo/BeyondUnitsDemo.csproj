@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Attributes\AuthorizeAttribute.cs" />
     <Compile Include="Controllers\Admin\PersonController.cs" />
+    <Compile Include="Controllers\Admin\ProductController.cs" />
     <Compile Include="Controllers\ImageController.cs" />
     <Compile Include="Controllers\PersonController.cs" />
     <Compile Include="Controllers\ProjectController.cs" />

@@ -1,0 +1,6 @@
+﻿=======================
+Admin Controller Types:
+=======================
+BeyondUnitsDemo.Controllers.Admin.PersonController
+BeyondUnitsDemo.Controllers.Admin.ProductController
+

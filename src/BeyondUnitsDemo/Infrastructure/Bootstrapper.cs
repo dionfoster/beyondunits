@@ -9,9 +9,8 @@ namespace BeyondUnitsDemo.Infrastructure
         {
             var builder = new ContainerBuilder();
 
-            builder.RegisterType<ImageController>();
-            builder.RegisterType<PersonController>();
-            builder.RegisterType<ProjectController>();
+            builder.RegisterAssemblyTypes(typeof (Controller).Assembly)
+                   .Where(t => t.BaseType == typeof (Controller));
 
             return builder.Build();
         }
